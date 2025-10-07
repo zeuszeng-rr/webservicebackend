@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5E59C-7B0A-36FF-9B21-A714917477CF}|..\\WebServiceBackend.Infrastructure\\WebServiceBackend.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F43B125-4A2D-F6C5-2CEF-2B5EF2DC1181}|..\\WebServiceBackend.Core\\WebServiceBackend.Core.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.core\\options\\connectiondatabaseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.api\\webservicebackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|solutionrelative:webservicebackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5E59C-7B0A-36FF-9B21-A714917477CF}|..\\WebServiceBackend.Infrastructure\\WebServiceBackend.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.infrastructure\\data\\appdbcontextpostgress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5E59C-7B0A-36FF-9B21-A714917477CF}|..\\WebServiceBackend.Infrastructure\\WebServiceBackend.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F43B125-4A2D-F6C5-2CEF-2B5EF2DC1181}|..\\WebServiceBackend.Core\\WebServiceBackend.Core.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.core\\options\\appsettingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F43B125-4A2D-F6C5-2CEF-2B5EF2DC1181}|..\\WebServiceBackend.Core\\WebServiceBackend.Core.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.core\\entities\\trnlogginginfoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F43B125-4A2D-F6C5-2CEF-2B5EF2DC1181}|..\\WebServiceBackend.Core\\WebServiceBackend.Core.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.core\\interfaces\\itrnlogginginforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5E59C-7B0A-36FF-9B21-A714917477CF}|..\\WebServiceBackend.Infrastructure\\WebServiceBackend.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.infrastructure\\repositories\\trnlogginginforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF9120A-C3C1-B624-BC20-12C4018295A5}|..\\WebServiceBackend.Application\\WebServiceBackend.Application.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.application\\commands\\addtrnlogginginfocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF9120A-C3C1-B624-BC20-12C4018295A5}|..\\WebServiceBackend.Application\\WebServiceBackend.Application.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.application\\commands\\updatetrnlogginginfocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.api\\webservicebackend.api\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|solutionrelative:webservicebackend.api\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.api\\webservicebackend.api\\controllers\\rootcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|solutionrelative:webservicebackend.api\\controllers\\rootcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.api\\webservicebackend.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|solutionrelative:webservicebackend.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.api\\webservicebackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|solutionrelative:webservicebackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.api\\webservicebackend.api\\extensions\\configuresecurityheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|solutionrelative:webservicebackend.api\\extensions\\configuresecurityheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F43B125-4A2D-F6C5-2CEF-2B5EF2DC1181}|..\\WebServiceBackend.Core\\WebServiceBackend.Core.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.api\\webservicebackend.api\\webservicebackend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|solutionrelative:webservicebackend.api\\webservicebackend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.api\\webservicebackend.api\\extensions\\startupextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36309AD5-390E-4012-AFB8-8B5DEC7603B2}|WebServiceBackend.Api\\WebServiceBackend.Api.csproj|solutionrelative:webservicebackend.api\\extensions\\startupextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F43B125-4A2D-F6C5-2CEF-2B5EF2DC1181}|..\\WebServiceBackend.Core\\WebServiceBackend.Core.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.core\\options\\hangfireoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F43B125-4A2D-F6C5-2CEF-2B5EF2DC1181}|..\\WebServiceBackend.Core\\WebServiceBackend.Core.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.core\\options\\jwtconfigurationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A5E59C-7B0A-36FF-9B21-A714917477CF}|..\\WebServiceBackend.Infrastructure\\WebServiceBackend.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.infrastructure\\webservicebackend.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF9120A-C3C1-B624-BC20-12C4018295A5}|..\\WebServiceBackend.Application\\WebServiceBackend.Application.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F43B125-4A2D-F6C5-2CEF-2B5EF2DC1181}|..\\WebServiceBackend.Core\\WebServiceBackend.Core.csproj|c:\\users\\lenovo\\source\\repos\\webservicebackend\\webservicebackend.core\\options\\corsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Infrastructure\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextPostgress.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Infrastructure\\Data\\AppDbContextPostgress.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Infrastructure\\Data\\AppDbContextPostgress.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Infrastructure\\Data\\AppDbContextPostgress.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Infrastructure\\Data\\AppDbContextPostgress.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:50:48.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSettingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Options\\AppSettingOptions.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Core\\Options\\AppSettingOptions.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Options\\AppSettingOptions.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Core\\Options\\AppSettingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:44:55.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:40:39.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:32:16.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrnLoggingInfoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Entities\\TrnLoggingInfoEntity.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Core\\Entities\\TrnLoggingInfoEntity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Entities\\TrnLoggingInfoEntity.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Core\\Entities\\TrnLoggingInfoEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:25:32.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "WebServiceBackend.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\appsettings.json",
+              "RelativeToolTip": "WebServiceBackend.Api\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T14:03:04.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionDatabaseOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Options\\ConnectionDatabaseOptions.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Core\\Options\\ConnectionDatabaseOptions.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Options\\ConnectionDatabaseOptions.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Core\\Options\\ConnectionDatabaseOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:26:05.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITrnLoggingInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Interfaces\\ITrnLoggingInfoRepository.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Core\\Interfaces\\ITrnLoggingInfoRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Interfaces\\ITrnLoggingInfoRepository.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Core\\Interfaces\\ITrnLoggingInfoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:30:46.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrnLoggingInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Infrastructure\\Repositories\\TrnLoggingInfoRepository.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Infrastructure\\Repositories\\TrnLoggingInfoRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Infrastructure\\Repositories\\TrnLoggingInfoRepository.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Infrastructure\\Repositories\\TrnLoggingInfoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:29:38.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\Middleware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "WebServiceBackend.Api\\Middleware\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\Middleware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "WebServiceBackend.Api\\Middleware\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:23:26.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateTrnLoggingInfoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Application\\Commands\\UpdateTrnLoggingInfoCommand.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Application\\Commands\\UpdateTrnLoggingInfoCommand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Application\\Commands\\UpdateTrnLoggingInfoCommand.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Application\\Commands\\UpdateTrnLoggingInfoCommand.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBMAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:15:37.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddTrnLoggingInfoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Application\\Commands\\AddTrnLoggingInfoCommand.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Application\\Commands\\AddTrnLoggingInfoCommand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Application\\Commands\\AddTrnLoggingInfoCommand.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Application\\Commands\\AddTrnLoggingInfoCommand.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:14:47.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RootController .cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\Controllers\\RootController .cs",
+              "RelativeDocumentMoniker": "WebServiceBackend.Api\\Controllers\\RootController .cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\Controllers\\RootController .cs",
+              "RelativeToolTip": "WebServiceBackend.Api\\Controllers\\RootController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:51:50.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConfigureSecurityHeaders.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\Extensions\\ConfigureSecurityHeaders.cs",
+              "RelativeDocumentMoniker": "WebServiceBackend.Api\\Extensions\\ConfigureSecurityHeaders.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\Extensions\\ConfigureSecurityHeaders.cs",
+              "RelativeToolTip": "WebServiceBackend.Api\\Extensions\\ConfigureSecurityHeaders.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:45:38.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HangfireOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Options\\HangfireOptions.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Core\\Options\\HangfireOptions.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Options\\HangfireOptions.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Core\\Options\\HangfireOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:25:01.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JwtConfigurationOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Options\\JwtConfigurationOptions.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Core\\Options\\JwtConfigurationOptions.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Options\\JwtConfigurationOptions.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Core\\Options\\JwtConfigurationOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:06:22.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StartupExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\Extensions\\StartupExtension.cs",
+              "RelativeDocumentMoniker": "WebServiceBackend.Api\\Extensions\\StartupExtension.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\Extensions\\StartupExtension.cs",
+              "RelativeToolTip": "WebServiceBackend.Api\\Extensions\\StartupExtension.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAIBJwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:49:43.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Core\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Core\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:21:45.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\Program.cs",
+              "RelativeDocumentMoniker": "WebServiceBackend.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\Program.cs",
+              "RelativeToolTip": "WebServiceBackend.Api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:15:01.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebServiceBackend.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebServiceBackend.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:45:51.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebServiceBackend.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\WebServiceBackend.Api.csproj",
+              "RelativeDocumentMoniker": "WebServiceBackend.Api\\WebServiceBackend.Api.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Api\\WebServiceBackend.Api\\WebServiceBackend.Api.csproj",
+              "RelativeToolTip": "WebServiceBackend.Api\\WebServiceBackend.Api.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwBAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T13:41:57.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebServiceBackend.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Infrastructure\\WebServiceBackend.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Infrastructure\\WebServiceBackend.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Infrastructure\\WebServiceBackend.Infrastructure.csproj*",
+              "RelativeToolTip": "..\\WebServiceBackend.Infrastructure\\WebServiceBackend.Infrastructure.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T15:14:49.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CorsOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Options\\CorsOptions.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Core\\Options\\CorsOptions.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Core\\Options\\CorsOptions.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Core\\Options\\CorsOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:01:02.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Infrastructure\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:23:51.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\WebServiceBackend.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\WebServiceBackend\\WebServiceBackend.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\WebServiceBackend.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:20:51.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

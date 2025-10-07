@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "WebServiceBackend.Api.Controllers.RootController",
+    "Method": "Index",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

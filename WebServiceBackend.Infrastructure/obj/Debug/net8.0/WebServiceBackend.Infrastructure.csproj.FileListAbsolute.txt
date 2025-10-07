@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\obj\Debug\net8.0\WebServiceBackend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\obj\Debug\net8.0\WebServiceBackend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\obj\Debug\net8.0\WebServiceBackend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\obj\Debug\net8.0\WebServiceBackend.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\obj\Debug\net8.0\WebServiceBackend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\bin\Debug\net8.0\WebServiceBackend.Infrastructure.deps.json
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\bin\Debug\net8.0\WebServiceBackend.Infrastructure.dll
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\bin\Debug\net8.0\WebServiceBackend.Infrastructure.pdb
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\bin\Debug\net8.0\WebServiceBackend.Core.dll
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\bin\Debug\net8.0\WebServiceBackend.Core.pdb
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\obj\Debug\net8.0\WebServi.8F45FDD7.Up2Date
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\obj\Debug\net8.0\WebServiceBackend.Infrastructure.dll
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\obj\Debug\net8.0\refint\WebServiceBackend.Infrastructure.dll
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\obj\Debug\net8.0\WebServiceBackend.Infrastructure.pdb
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Infrastructure\obj\Debug\net8.0\ref\WebServiceBackend.Infrastructure.dll

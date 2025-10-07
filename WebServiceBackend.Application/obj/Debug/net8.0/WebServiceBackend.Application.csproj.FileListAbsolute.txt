@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\bin\Debug\net8.0\WebServiceBackend.Application.deps.json
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\bin\Debug\net8.0\WebServiceBackend.Application.dll
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\bin\Debug\net8.0\WebServiceBackend.Application.pdb
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\obj\Debug\net8.0\WebServiceBackend.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\obj\Debug\net8.0\WebServiceBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\obj\Debug\net8.0\WebServiceBackend.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\obj\Debug\net8.0\WebServiceBackend.Application.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\obj\Debug\net8.0\WebServiceBackend.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\obj\Debug\net8.0\WebServiceBackend.Application.dll
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\obj\Debug\net8.0\refint\WebServiceBackend.Application.dll
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\obj\Debug\net8.0\WebServiceBackend.Application.pdb
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\obj\Debug\net8.0\ref\WebServiceBackend.Application.dll
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\bin\Debug\net8.0\WebServiceBackend.Core.dll
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\bin\Debug\net8.0\WebServiceBackend.Core.pdb
+C:\Users\Lenovo\source\repos\WebServiceBackend\WebServiceBackend.Application\obj\Debug\net8.0\WebServi.073F3F18.Up2Date
